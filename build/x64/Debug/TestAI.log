@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Yannick\AI\TestAI\Sources\main.c(71,8): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Yannick\AI\TestAI\Sources\main.c(72,8): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  TestAI.vcxproj -> D:\Yannick\AI\TestAI\build\x64\Debug\TestAI.exe
